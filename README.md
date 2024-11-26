@@ -6,7 +6,7 @@ Pro závěrečný projekt orientovaný na automatizované testování pomocí Py
 ### Test 1 - Testování online rezervace
 Jako první oblast pro testování jsem zvolila online rezervaci, což považuji za obchodně nejdůležitější prvek na stránce, který je oproti konkurenci navíc poměrně vzácný. Testovala jsem funkčnost dropdown menu u Tradiční masáže s výběrem délky masáže (60, 90 a 120 minut) a správný přepis vybrané možnosti na stránku s vygenerovanými návrhy konkrétního volného časového slotu. Zde jsem test zastavila, jelikož se v čase následující položky mění. Testy prošly v pořádku.
 
-### Test 2 - Testování funkčnosti košíku pro nákupu voucheru
+### Test 2 - Testování funkčnosti košíku pro nákup voucheru
 Pro druhý test jsem vybrala funkčnost košíku pro nákup voucheru na konkrétní typ masáže pomocí parametrizovaných testů. Testy prošly v pořádku.
 
 ### Test 3 - Testování zobrazení chybové hlášky v kontaktním formuláři při vyplnění nevalidních vstupů
