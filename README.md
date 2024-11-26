@@ -1,5 +1,5 @@
-# Závěrečný project na automatizované testování
-Automatizované testování webu společnosti **Thajské masáže Kiwi**
+# Závěrečný projekt na automatizované testování
+Automatizované testování webu společnosti **Thajské masáže Kiwi**.
 
 Pro závěrečný projekt orientovaný na automatizované testování pomocí Pytest a Playwright jsem si vybrala webové stránky společnosti Thajské masáže Kiwi. Vzhledem k integrované ochraně proti robotům (reCaptcha) jsem nemohla otestovat vše, co by si stránky zasloužily. Vybrala jsem však 5 oblastí, které testování umožňovaly. Testy jsem prováděla na prohlížečích Chromium, Firefox a Webkit. 
 
