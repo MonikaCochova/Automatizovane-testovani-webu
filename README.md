@@ -17,3 +17,8 @@ Třetí test se zaměřuje na kontaktní formulář, kde je třeba vyplnit jmén
 
 ### Test 5 - Testování přepnutí na anglickou verzi stránek
 Pro pátý test jsem vybrala přepnutí na anglickou verzi stránek. Test prošel v pořádku.
+
+### Hodnocení
+![image](https://github.com/user-attachments/assets/9c0f10bc-ef96-462a-8304-7e3c6a4ecc83)
+![image](https://github.com/user-attachments/assets/aac1a6f2-6971-480f-9018-83482c08238d)
+
